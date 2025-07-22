@@ -17,7 +17,7 @@ Building a QR Code element based on Display Flex
 ![](./images/solution.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Visit site here with Github Pages](https://ajiashwathram.github.io/qr-code/)
 
 ### Built with
 
